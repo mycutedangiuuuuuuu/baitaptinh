@@ -39,7 +39,7 @@ namespace web_v2
                     }
                     else
                     {
-                        Response.Write("Lỗi: Chiều dài phải lớn hơn chiều rộng và cả hai phải lớn hơn 0.");
+                        Response.Write("Lỗi!!! vui lòng nhập lại .");
                     }
                 }
                 catch (Exception ex)
